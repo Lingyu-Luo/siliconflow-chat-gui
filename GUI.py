@@ -19,7 +19,6 @@ NUM_CONVO_DISPLAY = 10
 BASE_URL = "https://api.siliconflow.cn/v1/chat/completions"
 NAME_MODEL = "deepseek-ai/DeepSeek-V3.1"
 VLM_MODEL = "zai-org/GLM-4.5V"
-VLM_MAX_TOKENS = "8192"
 
 # 白名单处理混合推理
 HYBRID_MODEL_LIST = [
