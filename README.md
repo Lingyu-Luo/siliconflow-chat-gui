@@ -13,7 +13,7 @@
   - 对于支持的模型，可选择性显示推理过程内容
   - 侧边栏提供模型选择器和生成参数控制（max\_tokens、temperature、top\_p）
   - 本地聊天记录功能，支持自动命名、加载和删除
-  - 可与 SiliconFlow API 配合使用（请访问[https://api.siliconflow.cn](https://api.siliconflow.cn)获取API KEY）
+  - 可与 SiliconFlow API 配合使用（请访问[https://cloud.siliconflow.cn](https://cloud.siliconflow.cn)获取API KEY）
 
 ## 环境要求
 
